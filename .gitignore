@@ -1,0 +1,5 @@
+*.fits
+*.fits.fz
+*.fits.gz
+.ipynb_checkpoints
+psf
